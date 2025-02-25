@@ -29,15 +29,15 @@
     <div class="container">
         <div class="section">
             <h2>Gotong Royong di Rumah</h2>
-            <img src="aril rumah.jpg" alt="Gotong Royong di Rumah">
+            <img src="arilrumah.jpg" alt="Gotong Royong di Rumah">
         </div>
         <div class="section">
             <h2>Gotong Royong di Masyarakat</h2>
-            <img src="aril masyarakat.jpg" alt="Gotong Royong di Masyarakat">
+            <img src="arilmasyarakat.jpg" alt="Gotong Royong di Masyarakat">
         </div>
         <div class="section">
             <h2>Gotong Royong di Sekolah</h2>
-            <img src="aril  sekolah.jpg" alt="Gotong Royong di Sekolah">
+            <img src="arilsekolah.jpg" alt="Gotong Royong di Sekolah">
         </div>
     </div>
 </body>
